@@ -1,0 +1,13 @@
+header {
+    background-color: rgb(38, 38, 190); padding-bottom: 20px; padding-top: 20px;
+    color:whitesmoke
+
+}
+body {
+    background-color: rgb(224, 235, 127);
+    font-size: larger;
+    color:rgb(41, 4, 70)
+}
+h4 {
+    color: limegreen;
+}
